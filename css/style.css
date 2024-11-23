@@ -13,7 +13,7 @@ body {
   top: 13%;
   transform: translate(-50%, 0);
   font-size: 45px;
-  color: red;
+  color: #264653;
   text-transform: capitalize;
   transition: 0.6s;
 }
